@@ -12,6 +12,11 @@ export default function usandoTitulo() {
                 secundario="Incluir, alterar e excluir coisas!"
                 pequeno={true}
             />
+            <Titulo 
+                principal="Página de Cadastro"
+                secundario="Incluir, alterar e excluir coisas!"
+                pequeno
+            />
         </div>
 
         
