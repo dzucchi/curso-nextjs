@@ -1,7 +1,7 @@
 import { useState } from "react"
 import NumeroDisplay from "../../components/NumeroDisplay"
 
-export default function contador2() {
+export default function contador() {
 
 const [numero, setNumero] = useState(0)
 
